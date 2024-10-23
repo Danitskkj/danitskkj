@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Currently studying IT technician.<br>🌱 Learning Java, JavaScript, Python, HTML, CSS and other technologies.<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 Currently studying IT technician.<br>🌱 Learning Java, JavaScript, Python, HTML, CSS and other technologies.<br>🎯 Goals: Become a proficient full-stack developer and contribute to open-source projects<br></p>
 
 ###
 
